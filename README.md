@@ -154,8 +154,8 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Fares Sassi - [Github](https://github.com/Fares84) / [Twitter](https://twitter.com/faressassi)
-Tanguy Sauraneri - [Github](https://github.com/TS-N) / [Twitter]()
+Prince Aboagye
+Emmanuella Chukwuma
 
 
 Second part of Airbnb: Joann Vuong
